@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @web-development2017
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning Next JS
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me www.linkedin.com/in/rich-web-dev
 
